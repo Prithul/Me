@@ -15,6 +15,8 @@ public class Me {
         System.out.println("ZZZ!!");
         System.out.println("Good Night!!!");
 
+        System.out.println("Life Sucks");
+
         Me me = new Me(" :-) ");
         me.howIsLife(" :-( ");
     }
